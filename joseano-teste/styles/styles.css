@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(7, 6, 17);
+}
+
+:root {
+  --base-color: yellowgreen;
+  --p-color: rgb(35, 32, 250);
+}
+
+.title {
+  font: 700 1.875rem 'Poppins', sans-serif;
+  color: var(--base-color)
+}
+
+.paragrafo {
+  font: 700 1.3rem 'Poppins', sans-serif;
+color: var(--p-color);
+}
+
+img {
+  width: 6%;
+  height: auto;
+
+}
+
